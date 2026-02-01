@@ -1,7 +1,7 @@
-# Hi there 💫 I'm Samir Devkar
-Data Analyst & Data Science enthusiast transforming raw data into actionable insights through dashboards, analytics, and machine learning solutions.
-Developed and contributed in so many projects 🌱
-Here is my Linkedin Profile you can connect to me there (www.linkedin.com/in/samir-antosh-devkar)
+# Hi there 💫 I'm Samir Devkar ✨
+Data Analyst & Data Science enthusiast transforming raw data into actionable insights through dashboards, analytics, and machine learning solutions. <br>
+Developed and contributed in so many projects 🌱 <br>
+Here is my Linkedin Profile you can connect to me there (www.linkedin.com/in/samir-antosh-devkar) <br>
 
 
 ## 🌐 Socials:
