@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 💫 I'm Samir 
 Data Analyst & Data Science enthusiast transforming raw data into actionable insights through dashboards, analytics, and machine learning solutions.
 
 
